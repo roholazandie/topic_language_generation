@@ -1,0 +1,13 @@
+{
+  "pretrained_model": "gpt2",
+  "length": 30,
+  "max_length": 20,
+  "mix_rate": 0.6,
+  "temperature": 1.0,
+  "top_k": 0,
+  "top_p": 0.9,
+  "repetition_penalty": 1.5,
+  "gamma": 5.0,
+  "logit_threshold": -95.0,
+  "device": "cpu"
+}
